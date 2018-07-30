@@ -1,10 +1,14 @@
-Our team consists of members from all around the world. We have decades of combined experience regarding enterprise development and networking services, along with many years of experience in designing, building and distributing blockchain applications.
+## TRON VIET NAM TEAM
 
 ## Founders
-Hero Nguyen 
+## Hero Nguyen 
 
-Role : Founder & Back-end Developer
+Role : Founder
 
 With a little more than 10 years in Software Development 
 
+## Gany Hoang
 
+Role: Developer
+
+Gany has been a UI/UX Designer for more than 10 years. He specializes in improving the production process, utilizing design and layout techniques to improve positive user interaction, and advocates the use of talents and team accomplishment in order to complete all types of projects in a timely manor.
