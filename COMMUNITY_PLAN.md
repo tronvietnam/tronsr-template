@@ -1,1 +1,3 @@
-Describe the plan to support the community
+If elected to be part of Tron’s SR, we will be reinvesting part of he rearwards in a creation of a technical team able to disseminate the knowledge and also provide new dAPPs to the network and it’s users, with the common goal of making it grow. Mostly we will be sharing rewards with all our voters depending on their participation stake. At the moment, our distribution system is set to 100% rewards back to the community. Once our position is established, we are planing to distribute 70% of the rewards back to the community, as follows: We will be investing 30% of our revenue into development, and 40% will be sent to the voters proportional to the vote amount.
+
+We have also been supporting the community on website of our.
