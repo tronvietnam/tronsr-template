@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Hero
+Role: Foundation
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: Gany
+Role: Developmental
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: Henry
+Role: Technology Manager
