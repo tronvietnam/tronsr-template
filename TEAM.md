@@ -1,14 +1,9 @@
-## Founder
+Our team consists of members from all around the world. We have decades of combined experience regarding enterprise development and networking services, along with many years of experience in designing, building and distributing blockchain applications.
 
-Name: Hero
- | Role: Foundation
+## Founders
+Hero Nguyen 
 
-## Team Member 1
+Role : Founder & Back-end Developer
+With a little more than 10 years in Software Development 
 
-Name: Gany
- | Role: Developmental
 
-## Team Member 2
-
-Name: Henry
- | Role: Technology Manager
