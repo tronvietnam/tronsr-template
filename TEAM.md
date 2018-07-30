@@ -1,5 +1,3 @@
-## TRON VIET NAM TEAM
-
 ## Founders
 ## Hero Nguyen 
 
