@@ -1,14 +1,14 @@
 ## Founder
 
 Name: Hero
-Role: Foundation
+ | Role: Foundation
 
 ## Team Member 1
 
 Name: Gany
-Role: Developmental
+ | Role: Developmental
 
 ## Team Member 2
 
 Name: Henry
-Role: Technology Manager
+ | Role: Technology Manager
